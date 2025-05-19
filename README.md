@@ -5,6 +5,12 @@
 > 전공자들을 위한 지식 공유 & 소통 게시판 🧑‍🎓  
 > 자료 업로드, 댓글, 태그 분류까지! 전공 정보를 함께 나누는 공간
 
+## 🚀 코드 레파지토리 바로가기
+
+GitHub에서 프로젝트 전체 코드를 확인하고 싶으시다면 아래 링크를 클릭하세요! 🔗  
+👉 [ExpressTeamProject/Distribute](https://github.com/ExpressTeamProject/Distribute)
+
+
 ## ⏰ 프로젝트 기간
 
 📅 **시작일** : 2025년 4월 29일 (화)  
